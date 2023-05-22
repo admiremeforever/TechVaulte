@@ -8,4 +8,4 @@ Step 4 -> Run the eureka server application
 Step 5 -> Run the mobile service application 
 Step 6 -> Run the TvService application 
 Note -> follow correct order of running the application as defined above.
-Step 7 -> Use Swagger UI ( Url -> http://localhost:8082/swagger-ui.html.) to check for the given API'once app the microservices are registered in eureka server 
+Step 7 -> Use Swagger UI ( http://localhost:8082/swagger-ui.html.) to check for the given API'once app the microservices are registered in eureka server.
